@@ -1,0 +1,19 @@
+Doctor Uno treated Salem at 5
+Doctor Dos treated Luna at 10
+Doctor Uno treated Mochi at 45
+Doctor Uno treated Nala at 75
+Doctor Dos treated Milo at 85
+Doctor Uno treated Whiskers at 87
+Doctor Uno treated Shadow at 107
+Doctor Dos treated Cleo at 110
+Doctor Uno treated Simba at 111
+Doctor Dos treated Tiger at 120
+Doctor Uno treated Leo at 129
+Doctor Dos treated Coco at 135
+Cannot accommodate Midnight
+Exposed Cats
+Coco
+Tiger
+Cleo
+Milo
+Luna
